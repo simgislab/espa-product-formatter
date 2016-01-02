@@ -17,7 +17,7 @@ See git tag [version_1.5.0]
   * TIFF libraries (3.8.2 or most current) -- [Found here](ftp://ftp.remotesensing.org/pub/libtiff/)
   * GeoTIFF libraries (1.2.5 or most current) -- [Found here](ftp://ftp.remotesensing.org/pub/geotiff/libgeotiff/)
   * HDF4 libraries (4.2.5 or most current) -- [Found here](https://www.hdfgroup.org/ftp/HDF/releases/)
-  * HDF-EOS2 libraries (2.18 or most current) -- [Found here](ftp://edhs1.gsfc.nasa.gov/edhs/hdfeos/latest_release/)
+  * HDF-EOS2 libraries (2.19 or most current) -- [Found here](http://edhs1.gsfc.nasa.gov/edhs/hdfeos/latest_release/HDF-EOS2.19v1.00.tar.Z)
   * JPEG libraries (version 6b) -- [Found here](http://www.ijg.org/files/)
   * ZLIB libraries (version 1.2.8) -- [Found here](http://zlib.net/)
   * XML2 libraries -- [Found here](ftp://xmlsoft.org/libxml2/)
